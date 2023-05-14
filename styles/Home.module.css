@@ -1,0 +1,196 @@
+.paintedNoise {
+    position: absolute;
+    width: 288px;
+    height: 288px;
+    left: 2.71px;
+    top: 42px;
+    background: url('../asstes/—Pngtree—hand-painted noise green leaf element_4054582 1.png');
+    filter: blur(5px);
+    transform: rotate(25deg);
+}
+
+.order {
+    position: absolute;
+    width: 681px;
+    height: 252px;
+    left: 102px;
+    top: 308px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 130%;
+    color: #396C03;
+}
+
+.freshly {
+    position: absolute;
+    width: 507px;
+    height: 34px;
+    left: 102px;
+    top: 587px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 140%;
+    color: #676767;
+}
+
+.inputHead {
+    position: absolute;
+    width: 714px;
+    height: 69px;
+    left: 100px;
+    top: 648px;
+    background: #FFFFFF;
+    opacity: 0.3;
+    border: 2px solid#396C03;
+    border-radius: 120px;
+}
+
+.searchButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 50px;
+    gap: 8px;
+    position: absolute;
+    width: 210.56px;
+    height: 68.19px;
+    left: 603px;
+    top: 648px;
+    background: url('../asstes/Frame 1.png');
+    border-radius: 100px;
+}
+
+.smallIcon {
+    position: absolute;
+    height: 40px;
+    left: 72.22%;
+    right: 25%;
+    top: 178px;
+    background: url('../asstes/Vector.png');
+}
+
+.smallImage {
+    position: absolute;
+    width: 201.14px;
+    height: 200px;
+    left: 723px;
+    top: 200px;
+    background: url('../asstes/NicePng_plate-of-food-png_546030 1.png');
+}
+
+.bigImage {
+    position: absolute;
+    width: 533.15px;
+    height: 528px;
+    left: 823px;
+    top: 232px;
+    background: url('../asstes/image 1.png');
+    filter: drop-shadow(0px 12.2182px 27.054px rgba(0, 0, 0, 0.15));
+}
+
+.explore {
+    position: absolute;
+    width: 527px;
+    height: 130px;
+    left: 100px;
+    top: 1002px;
+    font-family: 'Merienda';
+    font-size: 50px;
+    line-height: 80px;
+    font-weight: 700;
+    font-style: normal;
+    color: #396C03;
+}
+
+.number {
+    position: absolute;
+    width: 125px;
+    height: 52px;
+    left: 1093px;
+    top: 172px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 130%;
+    color: #FF8B00;
+}
+
+.lorem {
+    position: absolute;
+    width: 567px;
+    height: 87px;
+    left: 100px;
+    top: 1182px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: #676767;
+}
+
+.buttonE {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 60px;
+    gap: 15px;
+    position: absolute;
+    width: 231px;
+    height: 67px;
+    left: 100px;
+    top: 1293px;
+    background: url('../asstes/Primary button Large.png');
+}
+
+.cycleBg {
+    position: absolute;
+    width: 751px;
+    height: 500.67px;
+    left: 677px;
+    top: 906px;
+    background: url('../asstes/image 2.png');
+    mix-blend-mode: darken;
+}
+
+.imageCy {
+
+    width: 656.79px;
+    height: 437.91px;
+    left: 764px;
+    top: 932px;
+    background: url('../asstes/too-much-orders-contacless-delivery-service-during-quarantine-man-delivers-food-during-isolation-wearing-helmet-face-mask-taking-food-bike-isolated-white-wall-safety-hurrying-up copy 1.png');
+    mix-blend-mode: darken;
+}
+
+.color {
+    color: #396C03;
+
+}
+
+.bg {
+    background: #396C03;
+}
+
+.bgNab {
+    position: absolute;
+    width: 1440px;
+    height: 856px;
+    left: 0px;
+    top: 0px;
+    background: #6B9142;
+    opacity: 0.1;
+}
+
+.navCart {}
+
+
+.cart {
+    background-image: url('../asstes/cart.png');
+}
